@@ -1,4 +1,4 @@
-package j1008;
+
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -9,7 +9,7 @@ import java.util.Scanner;
  *      Class name must be "Main" for your solution to execute
  *      El nombre de la clase debe ser "Main" para que su solución ejecutar
  */
-public class Main {
+public class Problem1008 {
  
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
