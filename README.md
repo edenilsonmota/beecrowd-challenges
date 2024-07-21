@@ -1,18 +1,8 @@
-## Getting Started
+# Beecrowd Challenges
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém soluções para diversos desafios e problemas de algoritmo do Beecrowd, implementados em Java.
 
-## Folder Structure
+## Estrutura do Repositório
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Cada solução está em um arquivo Java separado.
+- O nome do arquivo segue o padrão `Problem<NumeroDoProblema>.java`.
